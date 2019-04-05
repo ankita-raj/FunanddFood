@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "399291722762",
+    "firebase_url": "https://funnfood-d886a.firebaseio.com",
+    "project_id": "funnfood-d886a",
+    "storage_bucket": "funnfood-d886a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399291722762:android:6c04816960ac746d",
+        "android_client_info": {
+          "package_name": "com.example.funndfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEF8ADDj_R6ZKEB3Lg9BM7_NPFEt2JUY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399291722762-nr70bje8rlga711vmcihqh7g417kd90l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
